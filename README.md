@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Panchal</h1>
 <h3 align="center">Aspiring machine learning engineer with strong Python and C++ skills</h3>
 
-- 🔭 I’m currently working on [Face mask detection](https://www.kaggle.com/code/ramashishpanchal/covid-face-mask-detection)
-
-- 🌱 I’m currently learning RNN
 
 - 💬 Passionate about machine learning — feel free to reach out!
 
